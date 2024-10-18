@@ -1,0 +1,84 @@
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+.navbar {
+  background-color: #000;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #ccc;
+}
+
+.card {
+  background-color: #000;
+}
+
+.card-title {
+  color: #fff;
+}
+
+.card-text {
+  color: #fff;
+}
+
+.modal-body {
+  background-color: #000;
+}
+
+h1, h2, h5 {
+  color: #fff;
+}
+
+a {
+  color: #fff;
+}
+
+a:hover {
+  color: #ccc;
+}
+
+.card-btn {
+  background-color: #ffa500;
+  border-color: #ffa500;
+  color: #fff;
+}
+
+.card-btn:hover {
+  background-color: #ff9900;
+  border-color: #ff9900;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  filter: invert(100%);
+}
+
+.carousel-indicators li {
+  background-color: #fff;
+}
+
+.carousel-indicators .active {
+  background-color: #ffa500;
+}
+
+.dropdown-menu {
+  background-color: #000;
+}
+
+.dropdown-item {
+  color: #fff;
+}
+
+.dropdown-item:hover {
+  background-color: #333;
+  color: #fff;
+}
